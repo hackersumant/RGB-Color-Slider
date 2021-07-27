@@ -32,10 +32,11 @@ span{
     display: inline-block;
     text-align: center;
     margin: 20px 0;
-    background-color: #0075FF;
+    background-color: #000;
     color: #ffffff;
     padding: 10px 30px;
     font-size: 18px;
     letter-spacing: 0.5px;
     border-radius: 2px;
+    user-select: all !important;
 }
